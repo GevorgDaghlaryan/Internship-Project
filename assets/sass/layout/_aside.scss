@@ -1,0 +1,32 @@
+.aside {
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    top: 0;
+    left: 0;
+    background-color: $secondary;
+    padding: 20px;
+}
+
+.aside_content{
+
+}
+
+.aside_logo {
+    margin-bottom: 20px;
+
+}
+
+.aside_navigation{
+
+}
+
+.aside_navigation-list-item {
+    padding: 8px 16px;
+    color: rgb(165, 160, 160);
+    
+}
+.aside_navigation-list-item:hover{
+    background-color: $primary;
+    color: rgb(255, 255, 255);
+}

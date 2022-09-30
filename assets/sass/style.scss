@@ -1,0 +1,27 @@
+@import './abstracts/mixins';
+@import './abstracts/vareble';
+
+
+@import './_reset.scss';
+
+
+// Layout
+@import './layout/aside';
+@import './layout/header';
+@import './layout/main';
+
+//UI
+@import './UI/baseButton';
+@import './UI/baseInput';
+
+//components
+@import './components/container';
+@import './components/form';
+@import './components/formGroup';
+@import './components/auth';
+@import './components/playCard';
+@import './components/login';
+
+//pages
+@import './pages/admin';
+@import './pages/user'

@@ -1,0 +1,22 @@
+.base-input{
+
+        width: 300px;
+        height: 50px;
+        padding:5px;
+        font-size:20px;
+        color: #212529;
+        border: 1px solid #bdbdbd;
+        border-radius: 10px;
+        
+        &::placeholder{
+                text-align: center;
+        }
+        &:hover{
+                background-color:rgb(241, 241, 241);
+                transition: background-color 0.5s;
+        }
+
+ 
+      
+
+}

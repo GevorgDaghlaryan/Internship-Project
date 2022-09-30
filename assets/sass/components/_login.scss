@@ -1,0 +1,23 @@
+.login{
+   
+    width: 400px;
+    height: 500px;
+    border: 2px solid black;
+    margin: 0 auto;
+    background: linear-gradient(#ffffff, #4e4c4c);
+}
+.login-title{
+    border-bottom:1px solid $primary;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+
+.login_form-input{
+    margin: 0 auto;
+}
+.login_form-button{
+    margin: 0 auto;
+}
